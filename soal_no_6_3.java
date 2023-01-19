@@ -1,3 +1,5 @@
+// java pattern program
+// membuat segitga terbalik
 public class Main {
     public static void main(String[] args) {
         int n = 5;
