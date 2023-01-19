@@ -1,3 +1,6 @@
+// java pattern program soal no.6
+// membuat segitiga
+
 public class Main {
   public static void main(String[] args) {
     int rows = 5;
